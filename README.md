@@ -26,8 +26,4 @@ Attempts to update Blackboard’s Attendance API to reflect student presence.
 
 Falls back to storing attendance logs for manual upload if API access is restricted.
 
-For more details on Blackboard API integration and system architecture, see the accompanying research thesis.
 
-Related Repository
-This project works in conjunction with the Bluetooth Attendance Checker mobile app, available here:
-👉 Bluetooth Attendance Checker (Mobile App)
